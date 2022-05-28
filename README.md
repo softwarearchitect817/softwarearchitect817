@@ -252,7 +252,3 @@ Here are some ideas to get you started:
       alt="xamarin" width="40" height="40" /> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img
       src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40" /> </a>
 </p>
-
-<div align="right">
-  <img src="https://count.getloli.com/get/@:vecnazmaga?theme=rule34" />
-</div>
