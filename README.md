@@ -16,19 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="left" height="150" src="https://api.poap.xyz/token/274326/image" />
-<img align="left" height="150" src="https://api.poap.xyz/token/569408/image" />
-<img align="left" height="150" src="https://api.poap.xyz/token/1840037/image" />
-<img align="left" height="150"
-  src="https://user-images.githubusercontent.com/37881789/137935654-6b6f71cf-4ee6-436b-be00-8feb14a25368.png" />
-<img align="left" height="150" src="https://api.poap.xyz/token/2208560/image" />
-<br /><br /><br /><br /><br /><br />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vecnazmaga&label=Profile%20views&color=0e75b6&style=flat"
-    alt="vecnazmaga" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=vecnazmaga" alt="vecnazmaga" /></a> </p>
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img
       src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40" /> </a> <a
