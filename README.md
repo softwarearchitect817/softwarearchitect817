@@ -16,11 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm <a href="https://vecnazmaga.netlify.app" target="_blank">Vecna Zmaga</a></h1>
-<br />
-<p>
-<img src="https://raw.githubusercontent.com/vecnazmaga/vecnazmaga/main/vecnazmaga.gif" />
-</p>
 <a href="https://github.com/vecnazmaga/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vecnazmaga&hide=html,ruby,css,java,objective-c,python,starlark,dockerfile,shell,rust,nix" />
 </a>
