@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## - 🔭 I’m currently working on Game Development.
-## - 🌱 I’m currently learning Big Data.
+### - 🔭 I’m currently working on Game Development.
+### - 🌱 I’m currently learning Big Data.
 
 
 <p align="left">
