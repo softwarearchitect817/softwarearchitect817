@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## - 🔭 I’m currently working on Game Development.
+## - 🌱 I’m currently learning Big Data.
+
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -144,6 +147,9 @@ Here are some ideas to get you started:
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
       width="40" height="40" /> </a>
+  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg"
+      alt="unreal" width="40" height="40" /> </a>
 
   <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img
       src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40" /> </a>
@@ -300,9 +306,6 @@ Here are some ideas to get you started:
       src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40" /> </a>
   <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img
       src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40" /> </a>
-  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg"
-      alt="unreal" width="40" height="40" /> </a>
   <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img
       src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40" /> </a>
   <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img
