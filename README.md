@@ -102,6 +102,13 @@ _Blockchain, Web Development and Unity 3D Game Development_
         <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
                     alt="javascript" width="100" /> </a></td>
+        <td><img src="https://cdn.iconscout.com/icon/free/png-64/webpack-1-1174980.png" width="100"></td>
+        <td><img src="https://cdn.iconscout.com/icon/free/png-64/asp-3-226071.png" width="100"></td>
+        <td><a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img
+                    src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="100" /> </a></td>
+        <td><a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+                    alt="redux" width="100" /> </a></td>
     </tr>
     <tr>
         <td><a href="https://emberjs.com/" target="_blank" rel="noreferrer"> <img
@@ -127,15 +134,6 @@ _Blockchain, Web Development and Unity 3D Game Development_
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
                     alt="python" width="100" /> </a></td>
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/django-11-1175036.png" width="100"></td>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-64/webpack-1-1174980.png" width="100"></td>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-64/asp-3-226071.png" width="100"></td>
-    </tr>
-    <tr>
-        <td><a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img
-                    src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="100" /> </a></td>
-        <td><a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-                    alt="redux" width="100" /> </a></td>
         <td><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
                     alt="postgresql" width="100" /> </a></td>
