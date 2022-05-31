@@ -23,16 +23,10 @@ _Game Development using Blockchain_
 _Big Data and Artificial Intelligence_
 ### 💬 _Ask me about_
 _Blockchain, Web Development and Unity 3D Game Development_
-
-
-<img align="right" height="150px"
-    src="https://github-readme-stats.vercel.app/api?username=BestSilverTiger&show_icons=true&theme=merko&count_private=true">
-
 ### 📫 _How to reach me:_
 ##### 📧 _Email: derekjones9817@gmail.com_
 ##### _Skype name: live:.cid.43dcadafad16daea_
 ##### 📶 _Telegram: @GameArchitect_
-
 
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
