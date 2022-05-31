@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" />
-<img align="right" height="150px"
-  src="https://github-readme-stats.vercel.app/api?username=BestSilverTiger&show_icons=true&theme=merko&count_private=true">
 
 ### _🔭 I’m currently working on_
 
@@ -43,6 +41,7 @@ _Blockchain, Web Development and Unity 3D Game Development_
     <img src="https://github-profile-trophy.vercel.app/?username=vecnazmaga" />
   </a>
 </p>
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api?username=BestSilverTiger&show_icons=true&theme=merko&count_private=true">
 <h3 align="left">Computer skills</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
