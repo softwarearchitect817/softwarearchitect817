@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"
     width="500" />
-    
+
 ### 🔭 _I’m currently working on_
 _Game Development using Blockchain_
 ### 🌱 _I’m currently learning_
@@ -75,6 +75,7 @@ _Blockchain, Web Development and Unity 3D Game Development_
         target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec"
             width="40" height="40" /> </a>
+
     <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust"
             width="40" height="40" /> </a>
@@ -90,6 +91,7 @@ _Blockchain, Web Development and Unity 3D Game Development_
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
             alt="nodejs" width="40" height="40" /> </a>
+
     <a href="https://emberjs.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ember/ember-original-wordmark.svg"
             alt="ember" width="40" height="40" /> </a>
@@ -190,6 +192,7 @@ _Blockchain, Web Development and Unity 3D Game Development_
     <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg"
             alt="unreal" width="40" height="40" /> </a>
+
     <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img
             src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40" /> </a>
     <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img
