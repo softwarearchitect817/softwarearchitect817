@@ -31,7 +31,7 @@ Blockchain, Web Development and Unity 3D Game Development
 
 ### 📫 How to reach me:
 
-derekjones9817@gmail.com_
+_derekjones9817@gmail.com_
 
 
 <p align="left">
