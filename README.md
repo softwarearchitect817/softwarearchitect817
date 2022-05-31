@@ -27,11 +27,11 @@ Big Data and Artificial Intelligence
 
 ### 💬 Ask me about
 
-_Blockchain, Web Development and Unity 3D Game Development.
+Blockchain, Web Development and Unity 3D Game Development
 
 ### 📫 How to reach me:
 
-_derekjones9817@gmail.com_
+derekjones9817@gmail.com_
 
 
 <p align="left">
