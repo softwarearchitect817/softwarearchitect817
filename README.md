@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Big Data.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 💬 Ask me about Blockchain, Web Development and Unity 3D Game Development.
+- 📫 How to reach me: derekjones9817@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 #### - 🔭 I’m currently working on Game Development using Blockchain.
 #### - 🌱 I’m currently learning Big Data.
-
+#### - 💬 Ask me about Blockchain, Web Development and Unity 3D Game Development.
+#### - 📫 How to reach me: derekjones9817@gmail.com
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
