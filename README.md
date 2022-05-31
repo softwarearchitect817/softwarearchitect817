@@ -17,19 +17,19 @@ Here are some ideas to get you started:
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" />
 
-#### 🔭 I’m currently working on
+### 🔭 I’m currently working on
 
 Game Development using Blockchain
 
-#### 🌱 I’m currently learning
+### 🌱 I’m currently learning
 
 Big Data and Artificial Intelligence
 
-#### 💬 Ask me about
+### 💬 Ask me about
 
 _Blockchain, Web Development and Unity 3D Game Development.
 
-#### 📫 How to reach me:
+### 📫 How to reach me:
 
 _derekjones9817@gmail.com_
 
