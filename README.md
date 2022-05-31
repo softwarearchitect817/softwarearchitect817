@@ -1,4 +1,4 @@
-### 👋 Welcome 👋
+## 👋 Welcome 👋
 
 <!--
 **SoftwareArchitect9817/SoftwareArchitect9817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,19 +17,19 @@ Here are some ideas to get you started:
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" />
 
-_#### 🔭 I’m currently working on
+#### 🔭 I’m currently working on
 
-_Game Development using Blockchain
+Game Development using Blockchain
 
-_#### 🌱 I’m currently learning
+#### 🌱 I’m currently learning
 
-_Big Data and Artificial Intelligence
+Big Data and Artificial Intelligence
 
-_#### 💬 Ask me about
+#### 💬 Ask me about
 
 _Blockchain, Web Development and Unity 3D Game Development.
 
-_#### 📫 How to reach me:
+#### 📫 How to reach me:
 
 _derekjones9817@gmail.com_
 
