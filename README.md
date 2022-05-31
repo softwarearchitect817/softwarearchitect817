@@ -61,34 +61,34 @@ _Blockchain, Web Development and Unity 3D Game Development_
                 target="_blank" rel="noreferrer"> <img
                     src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec"
                     width="100" /> </a></td>
+    </tr>
+    <tr>
+        <td><a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust"
+                    width="100" /> </a></td>
+        <td><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+                    alt="mongodb" width="100" /> </a></td>
+        <td><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+                    alt="express" width="100" /> </a></td>
+        <td><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+                    alt="react" width="100" /> </a></td>
+        <td><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+                    alt="nodejs" width="100" /> </a></td>
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png" width="100"></td>
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/mysql-18-1174938.png" width="100"></td>
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/django-11-1175036.png" width="100"></td>
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/cakephp-3-1175050.png" width="100"></td>
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/wordpress-2752021-2284838.png" width="100"></td>
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/webpack-1-1174980.png" width="100"></td>
-    </tr>
-    <tr>
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/asp-3-226071.png" width="100"></td>
     </tr>
 </table>
 
 <p align="left">
-    <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust"
-            width="100" /> </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-            alt="mongodb" width="100" /> </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-            alt="express" width="100" /> </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="100" /> </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs" width="100" /> </a>
     <a href="https://emberjs.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ember/ember-original-wordmark.svg"
             alt="ember" width="100" /> </a>
