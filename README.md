@@ -31,8 +31,9 @@ _Blockchain, Web Development and Unity 3D Game Development_
 
 ### _📫 How to reach me:_
 
-📧 _Email: derekjones9817@gmail.com_
-📶 _Telegram: @GameArchitect_
+##### 📧 _Email: derekjones9817@gmail.com_
+##### _Skype name: live:.cid.43dcadafad16daea_
+##### 📶 _Telegram: @GameArchitect_
 
 
 <p align="left">
