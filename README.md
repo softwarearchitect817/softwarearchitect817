@@ -394,9 +394,9 @@ _Blockchain, Web Development and Unity 3D Game Development_
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/javascript-24-1174950.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/django-11-1175036.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/laravel-226015.png" width="100"></td>
   </tr>
   <tr>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/laravel-226015.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/java-59-1174952.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/cakephp-3-1175050.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/wordpress-2752021-2284838.png" width="100"></td>
