@@ -41,7 +41,7 @@ _Blockchain, Web Development and Unity 3D Game Development_
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=vecnazmaga" />
   </a>
-  <img align="right" height="135px"
+  <img align="right" height="130px"
     src="https://github-readme-stats.vercel.app/api?username=BestSilverTiger&show_icons=true&theme=merko&count_private=true">
 </p>
 
