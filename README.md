@@ -65,32 +65,29 @@ _Blockchain, Web Development and Unity 3D Game Development_
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/asp-3-226071.png" width="100"></td>
     </tr>
     <tr>
-        <td><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"
-                    width="40" height="40" />
-            </a></td>
-        <td><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-                    alt="cplusplus" width="40" height="40" /> </a></td>
-        <td><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-                    alt="csharp" width="40" height="40" /> </a>
-        <td><a href="https://unity.com/" target="_blank" rel="noreferrer">
-                <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40"
-                    height="40" />
-            </a></td>
-        <td><a href="https://www.qt.io/" target="_blank" rel="noreferrer">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40"
-                    height="40" /> </a></td>
-        <td><a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html"
-                target="_blank" rel="noreferrer"> <img
-                    src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec"
-                    width="40" height="40" /> </a></td>
     </tr>
 </table>
 
 
 <p align="left">
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
+            height="40" /> </a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+            alt="cplusplus" width="40" height="40" /> </a>
+    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+            alt="csharp" width="40" height="40" /> </a>
+    <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" /> </a>
+    <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img
+            src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40"
+            height="40" /> </a>
+    <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html"
+        target="_blank" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec"
+            width="40" height="40" /> </a>
 
     <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust"
@@ -404,7 +401,7 @@ _Blockchain, Web Development and Unity 3D Game Development_
 </p>
 
 
-<!-- ![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Token-ERC1155-informational?style=flat&logo=erc1155&logoColor=white&color=3bac3a)
@@ -436,4 +433,4 @@ _Blockchain, Web Development and Unity 3D Game Development_
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=3bac3a) -->
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=3bac3a)
