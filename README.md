@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" />
+<img align="right" height="150px"
+  src="https://github-readme-stats.vercel.app/api?username=BestSilverTiger&show_icons=true&theme=merko&count_private=true">
 
 ### _🔭 I’m currently working on_
 
@@ -411,5 +413,4 @@ _Blockchain, Web Development and Unity 3D Game Development_
   </tr>
 </table>
 
-<img align="left" height="150px"
-  src="https://github-readme-stats.vercel.app/api?username=BestSilverTiger&show_icons=true&theme=merko&count_private=true">
+
