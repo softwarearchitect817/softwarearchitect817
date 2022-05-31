@@ -65,25 +65,27 @@ _Blockchain, Web Development and Unity 3D Game Development_
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/asp-3-226071.png" width="100"></td>
     </tr>
     <tr>
-        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"
-                width="40" height="40" /> </a>
-        <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-                alt="cplusplus" width="40" height="40" /> </a>
-        <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-                alt="csharp" width="40" height="40" /> </a>
-        <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img
-                src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" />
-        </a>
-        <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img
-                src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40"
-                height="40" /> </a>
-        <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html"
-            target="_blank" rel="noreferrer"> <img
-                src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec"
-                width="40" height="40" /> </a>
+        <td><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"
+                    width="40" height="40" />
+            </a></td>
+        <td><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+                    alt="cplusplus" width="40" height="40" /> </a></td>
+        <td><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+                    alt="csharp" width="40" height="40" /> </a>
+        <td><a href="https://unity.com/" target="_blank" rel="noreferrer">
+                <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40"
+                    height="40" />
+            </a></td>
+        <td><a href="https://www.qt.io/" target="_blank" rel="noreferrer">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40"
+                    height="40" /> </a></td>
+        <td><a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html"
+                target="_blank" rel="noreferrer"> <img
+                    src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec"
+                    width="40" height="40" /> </a></td>
     </tr>
 </table>
 
