@@ -28,7 +28,7 @@ _Blockchain, Web Development and Unity 3D Game Development_
 ##### _Skype name: live:.cid.43dcadafad16daea_
 ##### 📶 _Telegram: @GameArchitect_
 
-<img align="right" height="150px" <img align="right" height="130px"
+<img align="right" height="150px"
     src="https://github-readme-stats.vercel.app/api?username=BestSilverTiger&show_icons=true&theme=merko&count_private=true">
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
