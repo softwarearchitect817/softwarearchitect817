@@ -1,10 +1,7 @@
 # 👋 Welcome 👋
-
 <!--
 **SoftwareArchitect9817/SoftwareArchitect9817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Game Development.
 - 🌱 I’m currently learning Big Data.
 - 👯 I’m looking to collaborate on ...
@@ -14,41 +11,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"
     width="500" />
-
 ### 🔭 _I’m currently working on_
-
 _Game Development using Blockchain_
-
 ### 🌱 _I’m currently learning_
-
 _Big Data and Artificial Intelligence_
-
 ### 💬 _Ask me about_
-
 _Blockchain, Web Development and Unity 3D Game Development_
-
 ### 📫 _How to reach me:_
-
 ##### 📧 _Email: derekjones9817@gmail.com_
 ##### _Skype name: live:.cid.43dcadafad16daea_
 ##### 📶 _Telegram: @GameArchitect_
-
-
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=vecnazmaga" />
     </a>
-    <img align="right" height="150px"
+    <img align="right" height="150px" <img align="right" height="130px"
         src="https://github-readme-stats.vercel.app/api?username=BestSilverTiger&show_icons=true&theme=merko&count_private=true">
 </p>
 
-
 <h3 align="left">Computer skills</h3>
-
-
 <table>
     <tr>
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/github-170-1175028.png" width="100"></td>
@@ -76,8 +59,6 @@ _Blockchain, Web Development and Unity 3D Game Development_
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/asp-3-226071.png" width="100"></td>
     </tr>
 </table>
-
-
 <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
@@ -97,7 +78,6 @@ _Blockchain, Web Development and Unity 3D Game Development_
         target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec"
             width="40" height="40" /> </a>
-
     <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust"
             width="40" height="40" /> </a>
@@ -113,7 +93,6 @@ _Blockchain, Web Development and Unity 3D Game Development_
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
             alt="nodejs" width="40" height="40" /> </a>
-
     <a href="https://emberjs.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ember/ember-original-wordmark.svg"
             alt="ember" width="40" height="40" /> </a>
@@ -214,7 +193,6 @@ _Blockchain, Web Development and Unity 3D Game Development_
     <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg"
             alt="unreal" width="40" height="40" /> </a>
-
     <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img
             src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40" /> </a>
     <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img
@@ -408,8 +386,6 @@ _Blockchain, Web Development and Unity 3D Game Development_
     <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40" /> </a>
 </p>
-
-
 ![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a)
