@@ -45,6 +45,9 @@ _Blockchain, Web Development and Unity 3D Game Development_
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/swift-18-1174990.png" width="100"></td>
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/gradle-2-1174969.png" width="100"></td>
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/visualstudio-1-1174964.png" width="100"></td>
+        <td><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"
+                    width="40" height="40" /> </a></td>
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png" width="100"></td>
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/mysql-18-1174938.png" width="100"></td>
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/django-11-1175036.png" width="100"></td>
@@ -56,10 +59,9 @@ _Blockchain, Web Development and Unity 3D Game Development_
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/asp-3-226071.png" width="100"></td>
     </tr>
 </table>
+
 <p align="left">
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
-            height="40" /> </a>
+
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
             alt="cplusplus" width="40" height="40" /> </a>
