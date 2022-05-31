@@ -31,7 +31,8 @@ _Blockchain, Web Development and Unity 3D Game Development_
 
 ### _📫 How to reach me:_
 
-_derekjones9817@gmail.com_
+📧 _Email: derekjones9817@gmail.com_
+📶 _Telegram: @GameArchitect_
 
 
 <p align="left">
@@ -413,9 +414,7 @@ _derekjones9817@gmail.com_
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"
     width="500" />
 
-  ### ¯¯\_(ツ)\_/¯¯ 👋Contact Info👋 <br>
-  ### 📶 _Telegram: @GameArchitect
-  ### 📧 _Email: derekjones9817@gmail.com
+
 
 </div>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=BestSilverTiger.BestSilverTiger" />
