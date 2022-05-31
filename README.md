@@ -76,9 +76,8 @@ _Blockchain, Web Development and Unity 3D Game Development_
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
                     alt="react" width="100" /> </a></td>
         <td><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-                    alt="nodejs" width="100" /> </a></td>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png" width="100"></td>
+                    src="https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png" alt="nodejs" width="100" />
+            </a></td>
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/mysql-18-1174938.png" width="100"></td>
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/django-11-1175036.png" width="100"></td>
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/cakephp-3-1175050.png" width="100"></td>
