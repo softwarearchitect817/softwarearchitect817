@@ -78,6 +78,15 @@ _Blockchain, Web Development and Unity 3D Game Development_
         <td><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
                     alt="react" width="100" /> </a></td>
+        <td><a href="https://angular.io" target="_blank" rel="noreferrer"> <img
+                    src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="100" />
+            </a></td>
+        <td><a href="https://angular.io" target="_blank" rel="noreferrer"> <img
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg"
+                    alt="angularjs" width="100" /> </a></td>
+        <td><a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
+                    alt="vuejs" width="100" /> </a></td>
         <td><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
                     src="https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png" alt="nodejs" width="100" />
             </a></td>
@@ -94,6 +103,13 @@ _Blockchain, Web Development and Unity 3D Game Development_
         <td><a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg"
                     alt="backbonejs" width="100" /> </a></td>
+        <td><a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img
+                    src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte"
+                    width="100" />
+            </a></td>
+        <td><a href="https://spring.io/" target="_blank" rel="noreferrer"> <img
+                    src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="100" />
+            </a></td>
     </tr>
     <tr>
         <td><a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img
@@ -104,42 +120,25 @@ _Blockchain, Web Development and Unity 3D Game Development_
         <td><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
                     alt="postgresql" width="100" /> </a></td>
-        <td><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-                    alt="postgresql" width="100" /> </a></td>
         <td><a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
                     alt="oracle" width="100" /> </a></td>
         <td><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
                     src="https://cdn.iconscout.com/icon/free/png-64/mysql-18-1174938.png" alt="mysql" width="100" />
             </a></td>
+        <td><a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img
+                    src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="100" />
+            </a></td>
+        <td><a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img
+                    src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="100" />
+            </a></td>
+        <td><a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
+                    alt="nestjs" width="100" /> </a></td>
     </tr>
 </table>
 
 <p align="left">
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img
-            src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="100" /> </a>
-    <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="100" />
-    </a>
-    <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs"
-            width="100" /> </a>
-    <a href="https://angular.io" target="_blank" rel="noreferrer"> <img
-            src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="100" />
-    </a>
-    <a href="https://angular.io" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg"
-            alt="angularjs" width="100" /> </a>
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-            alt="vuejs" width="100" /> </a>
-    <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img
-            src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="100" />
-    </a>
-    <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="100" />
-    </a>
     <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
             alt="dotnet" width="100" /> </a>
