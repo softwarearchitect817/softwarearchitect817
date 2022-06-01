@@ -37,22 +37,25 @@ _Blockchain, Web Development and Unity 3D Game Development_
 <h3 align="left">Computer skills</h3>
 <table>
     <tr>
-        <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="200"></td>
-        <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" width="200"></td>
-        <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pancake.png?raw=true" width="200"></td>
-        <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_solidity.png?raw=true" width="200"></td>
-        <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_truffle.png?raw=true" width="200"></td>
-        <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_metamask.png?raw=true" width="200"></td>
-        <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pivx.png?raw=true" width="200"></td>
-        <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_bitcoin.png?raw=true" width="200"></td>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-128/jquery-7-1175152.png" width="200"></td>
+        <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="100"></td>
+        <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" width="100"></td>
+        <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pancake.png?raw=true" width="100"></td>
+        <td><a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust"
+                    width="100" /> </a></td>
+        <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_bitcoin.png?raw=true" width="100"></td>
+        <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_solidity.png?raw=true" width="100"></td>
+        <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_metamask.png?raw=true" width="100"></td>
+        <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_truffle.png?raw=true" width="100"></td>
+        <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pivx.png?raw=true" width="100"></td>
     </tr>
     <tr>
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/github-170-1175028.png" width="100"></td>
+        <td><img src="https://cdn.iconscout.com/icon/free/png-128/git-18-1175219.png" width="100"></td>
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/apple-1237-1174963.png" width="100"></td>
         <td><a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-                    alt="android" width="100" /> </a></td>
+                    src="https://cdn.iconscout.com/icon/free/png-128/android-245-1175273.png" alt="android"
+                    width="100" /> </a></td>
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/swift-18-1174990.png" width="100"></td>
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/gradle-2-1174969.png" width="100"></td>
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/visualstudio-1-1174964.png" width="100"></td>
@@ -83,9 +86,6 @@ _Blockchain, Web Development and Unity 3D Game Development_
                     alt="linux" width="100" /> </a></td>
     </tr>
     <tr>
-        <td><a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust"
-                    width="100" /> </a></td>
         <td><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
                     alt="mongodb" width="100" /> </a></td>
@@ -169,10 +169,12 @@ _Blockchain, Web Development and Unity 3D Game Development_
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
                     alt="laravel" width="100" /> </a></td>
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/wordpress-2752021-2284838.png" width="100"></td>
+        <td><img src="https://cdn.iconscout.com/icon/free/png-128/codeigniter-5-1175246.png" width="100"></td>
         <td><a href="https://www.php.net" target="_blank" rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
-                    width="100" /> </a></td>
+                    src="https://cdn.iconscout.com/icon/free/png-128/php-99-1175127.png" alt="php" width="100" /> </a>
+        </td>
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/cakephp-3-1175050.png" width="100"></td>
+        <td><img src="https://cdn.iconscout.com/icon/free/png-128/jquery-7-1175152.png" width="100"></td>
         <td><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
                     alt="bootstrap" width="100" /> </a></td>
@@ -186,6 +188,7 @@ _Blockchain, Web Development and Unity 3D Game Development_
         <td><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
                     alt="css3" width="100" /> </a></td>
+        <td><img src="https://cdn.iconscout.com/icon/free/png-128/html5-40-1175193.png" width="100"></td>
         <td><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
                     alt="java" width="100" /> </a></td>
@@ -194,16 +197,10 @@ _Blockchain, Web Development and Unity 3D Game Development_
                     alt="unreal" width="100" /> </a></td>
     </tr>
     <tr>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-128/php-99-1175127.png" width="200"></td>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-128/codeigniter-5-1175246.png" width="200"></td>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-128/html5-40-1175193.png" width="200"></td>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-128/git-18-1175219.png" width="200"></td>
     </tr>
     <tr>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-128/swift-21-1175088.png" width="200"></td>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-128/android-245-1175273.png" width="200"></td>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-128/xcode-3521822-2945239.png" width="200"></td>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-128/bootstrap-226077.png" width="200"></td>
+        <td><img src="https://cdn.iconscout.com/icon/free/png-128/xcode-3521822-2945239.png" width="100"></td>
+        <td><img src="https://cdn.iconscout.com/icon/free/png-128/bootstrap-226077.png" width="100"></td>
     </tr>
     <tr>
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/ionic-4-1175016.png" width="100"></td>
