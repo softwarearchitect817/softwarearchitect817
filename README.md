@@ -150,6 +150,8 @@ _Blockchain, Web Development and Unity 3D Game Development_
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
                     alt="python" width="100" /> </a></td>
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/django-11-1175036.png" width="100"></td>
+    </tr>
+    <tr>
         <td><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
                     alt="postgresql" width="100" /> </a></td>
