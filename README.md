@@ -62,6 +62,12 @@ _Blockchain, Web Development and Unity 3D Game Development_
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/ionic-4-1175016.png" width="100"></td>
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/gradle-2-1174969.png" width="100"></td>
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/visualstudio-1-1174964.png" width="100"></td>
+        <td><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
+                    src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="100" />
+            </a></td>
+        <td><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+                    alt="linux" width="100" /> </a></td>
     </tr>
     <tr>
         <td><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
@@ -83,12 +89,6 @@ _Blockchain, Web Development and Unity 3D Game Development_
                 target="_blank" rel="noreferrer"> <img
                     src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec"
                     width="100" /> </a></td>
-        <td><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
-                    src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="100" />
-            </a></td>
-        <td><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-                    alt="linux" width="100" /> </a></td>
     </tr>
     <tr>
         <td><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
