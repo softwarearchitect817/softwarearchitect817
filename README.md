@@ -40,15 +40,19 @@ _Blockchain, Web Development and Unity 3D Game Development_
         <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="100"></td>
         <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" width="100"></td>
         <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pancake.png?raw=true" width="100"></td>
+        <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_bitcoin.png?raw=true" width="100"></td>
         <td><a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust"
                     width="100" /> </a></td>
-        <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_bitcoin.png?raw=true" width="100"></td>
         <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_solidity.png?raw=true" width="100"></td>
         <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_metamask.png?raw=true" width="100"></td>
         <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_truffle.png?raw=true" width="100"></td>
         <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pivx.png?raw=true" width="100"></td>
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/go-76-1175027.png" width="100"></td>
+        <td><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+                    alt="python" width="100" /> </a></td>
+        <td><img src="https://cdn.iconscout.com/icon/free/png-64/django-11-1175036.png" width="100"></td>
     </tr>
     <tr>
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/github-170-1175028.png" width="100"></td>
@@ -139,10 +143,6 @@ _Blockchain, Web Development and Unity 3D Game Development_
         <td><a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img
                     src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="100" />
             </a></td>
-        <td><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-                    alt="python" width="100" /> </a></td>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-64/django-11-1175036.png" width="100"></td>
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/webpack-1-1174980.png" width="100"></td>
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/asp-3-226071.png" width="100"></td>
     </tr>
