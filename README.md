@@ -115,7 +115,6 @@ _Blockchain, Web Development and Unity 3D Game Development_
         <td><a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img
                     src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="100" />
             </a></td>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-64/asp-3-226071.png" width="100"></td>
     </tr>
     <tr>
         <td><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
@@ -153,26 +152,6 @@ _Blockchain, Web Development and Unity 3D Game Development_
                     alt="redux" width="100" /> </a></td>
     </tr>
     <tr>
-        <td><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-                    alt="postgresql" width="100" /> </a></td>
-        <td><a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-                    alt="oracle" width="100" /> </a></td>
-        <td><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-                    src="https://cdn.iconscout.com/icon/free/png-64/mysql-18-1174938.png" alt="mysql" width="100" />
-            </a></td>
-        <td><a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img
-                    src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="100" />
-            </a></td>
-        <td><a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img
-                    src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="100" />
-            </a></td>
-        <td><a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
-                    alt="nestjs" width="100" /> </a></td>
-    </tr>
-    <tr>
         <td><a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
                     alt="laravel" width="100" /> </a></td>
@@ -200,6 +179,27 @@ _Blockchain, Web Development and Unity 3D Game Development_
         <td><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
                     alt="java" width="100" /> </a></td>
+    </tr>
+    <tr>
+        <td><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+                    alt="postgresql" width="100" /> </a></td>
+        <td><a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
+                    alt="oracle" width="100" /> </a></td>
+        <td><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
+                    src="https://cdn.iconscout.com/icon/free/png-64/mysql-18-1174938.png" alt="mysql" width="100" />
+            </a></td>
+        <td><a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img
+                    src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="100" />
+            </a></td>
+        <td><a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img
+                    src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="100" />
+            </a></td>
+        <td><a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
+                    alt="nestjs" width="100" /> </a></td>
+        <td><img src="https://cdn.iconscout.com/icon/free/png-64/asp-3-226071.png" width="100"></td>
     </tr>
 </table>
 
