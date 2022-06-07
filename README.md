@@ -32,8 +32,8 @@ _Blockchain, Web Development and Unity 3D Game Development_
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=vecnazmaga" />
     </a>
+    <img align="right" alt="Android" width="200" height="200" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif"> 
 </p>
-<img align="right" alt="Android" width="100" height="100" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif"> 
 
 <h3 align="left">Computer skills</h3>
 <table>
