@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 -->
 
 
+<img align="right" width="50%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/full/workbench.svg" />
+
 - 🔭 I’m currently working on Game Development.
 - 🌱 I’m currently learning Big Data.
 - 👯 I’m looking to collaborate on ...
@@ -23,8 +25,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
-<img align="right" width="50%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/full/workbench.svg" />
 
 <h3 align="left">Computer skills</h3>
 <table>
