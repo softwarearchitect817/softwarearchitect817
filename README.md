@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### 🔭 I’m currently working on Game Development.
 ### 🌱 I’m currently learning Big Data.
-### 💬 Ask me about Blockchain, Web Development and Unity 3D Game Development.
+### 💬 Ask me about Blockchain, Web Development.
 ### 📫 How to reach me: derekjones9817@gmail.com
 
 
