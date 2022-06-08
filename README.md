@@ -7,14 +7,14 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Big Data.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about Blockchain, Web Development and Unity 3D Game Development.
+- 💬 Ask me about Blockchain, Web Development.
 - 📫 How to reach me: derekjones9817@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
 
-![Peek 2020-07-09 15-53](https://user-images.githubusercontent.com/7910856/87048834-84abea80-c1fc-11ea-9342-27b96a046ba4.gif)
+
 
 
 <h3 align="left">Computer skills</h3>
