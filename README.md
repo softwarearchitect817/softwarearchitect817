@@ -14,6 +14,15 @@ Here are some ideas to get you started:
 -->
 
 
+<div align=center>
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+    
+<!-- retro visitor counter -->  
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/SoftwareArchitect9817/count.svg" />  
+</p>
+
 <h3 align="left">Computer skills</h3>
 <table>
     <tr>
