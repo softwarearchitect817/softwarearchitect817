@@ -16,13 +16,10 @@ Here are some ideas to get you started:
 
 <img align="right" width="50%" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
 
-### 🔭 _I’m currently working on_
-_Game Development using Blockchain_
-### 🌱 _I’m currently learning_
-_Big Data and Artificial Intelligence_
-### 💬 _Ask me about_
-_Blockchain, Web Development and Unity 3D Game Development_
-### 📫 _How to reach me:_
+### 🔭 I’m currently working on Game Development using Blockchain.
+### 🌱 I’m currently learning Big Data.
+### 💬 Ask me about Blockchain, Web Development and Unity 3D Game Development.
+### 📫 How to reach me:
 ##### 📧 _Email: derekjones9817@gmail.com_
 ##### _Skype name: live:.cid.43dcadafad16daea_
 ##### 📶 _Telegram: @GameArchitect_
@@ -238,8 +235,10 @@ _Blockchain, Web Development and Unity 3D Game Development_
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=3bac3a)
 
 <img align="left" src="https://thumbs.gfycat.com/FlippantFlickeringEquestrian-max-1mb.gif">
-<img align="right" alt="Android" width="200" height="200" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif"> 
+<img align="right" alt="Android" width="200" height="200"
+    src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif">
 
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoftwareArchitect9817&layout=compact&theme=merko&count_private=false&langs_count=10">
+<img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoftwareArchitect9817&layout=compact&theme=merko&count_private=false&langs_count=10">
