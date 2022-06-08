@@ -16,14 +16,10 @@ Here are some ideas to get you started:
 
 <img align="right" width="50%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/full/workbench.svg" />
 
-🔭 I’m currently working on Game Development.
-🌱 I’m currently learning Big Data.
-👯 I’m looking to collaborate on ...
-🤔 I’m looking for help with ...
-💬 Ask me about Blockchain, Web Development and Unity 3D Game Development.
-📫 How to reach me: derekjones9817@gmail.com
-😄 Pronouns: ...
-⚡ Fun fact: ...
+### 🔭 I’m currently working on Game Development.
+### 🌱 I’m currently learning Big Data.
+### 💬 Ask me about Blockchain, Web Development and Unity 3D Game Development.
+### 📫 How to reach me: derekjones9817@gmail.com
 
 
 <h3 align="left">Computer skills</h3>
