@@ -32,7 +32,6 @@ _Blockchain, Web Development and Unity 3D Game Development_
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=vecnazmaga" />
     </a>
-    <img align="right" alt="Android" width="100" height="100" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif"> 
 </p>
 
 <h3 align="left">Computer skills</h3>
@@ -240,5 +239,6 @@ _Blockchain, Web Development and Unity 3D Game Development_
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=3bac3a)
 
 <img src="https://thumbs.gfycat.com/FlippantFlickeringEquestrian-max-1mb.gif">
+<img align="right" alt="Android" width="100" height="100" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif"> 
 
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
