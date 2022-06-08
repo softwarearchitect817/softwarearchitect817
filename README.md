@@ -241,3 +241,5 @@ _Blockchain, Web Development and Unity 3D Game Development_
 <img align="right" alt="Android" width="200" height="200" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif"> 
 
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoftwareArchitect9817&layout=compact&theme=merko&count_private=true">
