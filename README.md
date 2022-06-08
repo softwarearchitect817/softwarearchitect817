@@ -14,22 +14,6 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="right" width="50%" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
-
-### 🔭 I’m currently working on Game Development using Blockchain.
-### 🌱 I’m currently learning Big Data.
-### 💬 Ask me about Blockchain, Web Development and Unity 3D Game Development.
-### 📫 How to reach me:
-##### 📧 _Email: derekjones9817@gmail.com_
-##### _Skype name: live:.cid.43dcadafad16daea_
-##### 📶 _Telegram: @GameArchitect_
-
-<p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=SoftwareArchitect9817" />
-    </a>
-</p>
-
 <h3 align="left">Computer skills</h3>
 <table>
     <tr>
@@ -233,12 +217,3 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=3bac3a)
-
-<img align="left" src="https://thumbs.gfycat.com/FlippantFlickeringEquestrian-max-1mb.gif">
-<img align="right" alt="Android" width="200" height="200"
-    src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif">
-
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-
-<img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoftwareArchitect9817&layout=compact&theme=merko&count_private=false&langs_count=10">
