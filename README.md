@@ -30,7 +30,7 @@ _Blockchain, Web Development and Unity 3D Game Development_
 
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img width="90%" src="https://github-profile-trophy.vercel.app/?username=SoftwareArchitect9817" />
+        <img width="500" src="https://github-profile-trophy.vercel.app/?username=SoftwareArchitect9817" />
     </a>
 </p>
 
