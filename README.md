@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img width="50%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/full/workbench.svg" />
+<img align="right" width="50%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/full/workbench.svg" />
 
 <h3 align="left">Computer skills</h3>
 <table>
