@@ -223,5 +223,5 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoftwareArchitect9817&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=10&hide=c++"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoftwareArchitect9817&count_private=false&theme=algolia&layout=compact&border_radius=8&langs_count=10&bg_color=-45,25132E,DC0D4A,61A9A6,C5D6B5,98BE85&title_color=C197D2&text_color=ffffff&hide_border=true&show_icons=true"/>
 </p>
