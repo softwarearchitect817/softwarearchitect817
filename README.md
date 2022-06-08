@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
+<img align="right" width="50%" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
 
 ### 🔭 _I’m currently working on_
 _Game Development using Blockchain_
