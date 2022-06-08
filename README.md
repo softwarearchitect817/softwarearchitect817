@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="right" width="50%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/full/workbench.svg" />
-
 ### 🔭 I’m currently working on Game Development.
 ### 🌱 I’m currently learning Big Data.
 ### 💬 Ask me about Blockchain, Web Development.
@@ -228,6 +226,6 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img align="center" alt="Akshat's github stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=dev-akshat&show_icons=true&include_all_commits=true&bg_color=30,434343,000000&title_color=fe428e&text_color=f1f1eb"  />
-  <img align="center" alt="Akshat's github stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dev-akshat&layout=compact&langs_count=10&hide=html,css&bg_color=30,000000,434343&title_color=fe428e&text_color=f1f1eb" />
+  <img align="center" alt="Akshat's github stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=SoftwareArchitect9817&show_icons=true&include_all_commits=true&bg_color=30,434343,000000&title_color=fe428e&text_color=f1f1eb"  />
+  <img align="center" alt="Akshat's github stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SoftwareArchitect9817&layout=compact&langs_count=10&hide=html,css&bg_color=30,000000,434343&title_color=fe428e&text_color=f1f1eb" />
 </p>
