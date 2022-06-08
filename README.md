@@ -242,4 +242,4 @@ _Blockchain, Web Development and Unity 3D Game Development_
 
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoftwareArchitect9817&layout=compact&theme=merko&count_private=true&langs_count=20">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoftwareArchitect9817&layout=compact&theme=merko&count_private=true&langs_count=10">
