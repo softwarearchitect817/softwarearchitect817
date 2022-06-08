@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-
+<img align ='right' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif'>
 
 
 <h3 align="left">Computer skills</h3>
