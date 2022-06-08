@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img width=50% src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif'>
+<img width=200% src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif'>
 <img align="right" width=50% src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=SoftwareArchitect9817&column=8&margin-w=15&margin-h=15">
