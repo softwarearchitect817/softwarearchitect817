@@ -231,5 +231,9 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=3bac3a)
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoftwareArchitect9817&layout=compact&langs_count=10&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  <a>
+    <img height="150" width="150" src="https://github.com/a3X3k/-Random-/blob/main/left.webp">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoftwareArchitect9817&layout=compact&langs_count=10&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+    <img height="150" width="150" src="https://github.com/a3X3k/-Random-/blob/main/right.webp">
+  </a>
 </p>
