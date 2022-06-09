@@ -238,4 +238,4 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<img align="right" width=50% src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
+<img align="right" width=25% src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
