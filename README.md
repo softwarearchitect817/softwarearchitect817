@@ -237,3 +237,5 @@ Here are some ideas to get you started:
     <img height="150" width="150" src="https://github.com/a3X3k/-Random-/blob/main/right.webp">
   </a>
 </p>
+
+<img src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
