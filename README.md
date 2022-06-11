@@ -241,3 +241,5 @@ Here are some ideas to get you started:
 <img align="right" width=25% src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
 
 ![MasterHead](https://previews.123rf.com/images/artinspiring/artinspiring1909/artinspiring190901325/130769932-concetto-di-banner-web-di-sviluppo-frontend-interfaccia-del-sito-web.jpg)
+
+<img src="https://count.getloli.com/get/@SoftwareArchitect9817?theme=rule34" alt="bariscodefx" />
