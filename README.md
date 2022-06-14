@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 
 <img src="https://noda-portfolio.web.app/git_banner.png" />
 
-### 🔭 I’m currently working on Game Development.
-### 🌱 I’m currently learning Big Data.
-### 💬 Ask me about Blockchain, Web Development.
-### 📫 How to reach me: derekjones9817@gmail.com
+#### 🔭 I’m currently working on Game Development.
+#### 🌱 I’m currently learning Big Data.
+#### 💬 Ask me about Blockchain, Web Development.
+#### 📫 How to reach me: derekjones9817@gmail.com
 
 <img align="left" width=40% src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif'>
 <img align="right" width=50% src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
