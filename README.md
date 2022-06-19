@@ -217,7 +217,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<img align="right" src="https://count.getloli.com/get/@SoftwareArchitect9817?theme=rule34" />
+<!-- <img align="right" src="https://count.getloli.com/get/@SoftwareArchitect9817?theme=rule34" /> -->
 ![](https://count.getloli.com/get/@SoftwareArchitect9817.github.readme)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
