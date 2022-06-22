@@ -177,7 +177,6 @@ Here are some ideas to get you started:
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
                     alt="css3" width="100" /> </a></td>
         <td><img src="https://cdn.iconscout.com/icon/free/png-128/html5-40-1175193.png" width="100"></td>
-
     </tr>
 </table>
 
