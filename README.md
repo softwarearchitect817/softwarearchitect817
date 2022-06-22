@@ -46,6 +46,7 @@ Here are some ideas to get you started:
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
                     alt="python" width="100" /> </a></td>
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/django-11-1175036.png" width="100"></td>
+        <td><img src="https://profilinator.rishav.dev/skills-assets/graphql.png" width="100"></td>
     </tr>
     <tr>
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/github-170-1175028.png" width="100"></td>
@@ -142,11 +143,15 @@ Here are some ideas to get you started:
         <td><a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
                     alt="redux" width="100" /> </a></td>
+        <td><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-color-tal-revivo.png"
+                width="100"></td>
     </tr>
     <tr>
         <td><a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
                     alt="laravel" width="100" /> </a></td>
+        <td><img src="https://github.com/yurri-yeskov/yurri-yeskov/blob/main/shopify-icon.png" width="100" /></td>
+        <td><img src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" width="100" /></td>
         <td><img src="https://profilinator.rishav.dev/skills-assets/wordpress.png" width="100"></td>
         <td><img src="https://cdn.iconscout.com/icon/free/png-128/codeigniter-5-1175246.png" width="100"></td>
         <td><a href="https://www.php.net" target="_blank" rel="noreferrer"> <img
@@ -172,16 +177,7 @@ Here are some ideas to get you started:
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
                     alt="java" width="100" /> </a></td>
     </tr>
-    <tr>
-        <td><img src="https://github.com/yurri-yeskov/yurri-yeskov/blob/main/shopify-icon.png" width="100" /></td>
-        <td><img src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" width="100" /></td>
-    </tr>
 </table>
-
-<div>
-    <code><img alt="Nuxt" height="50" width="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-color-tal-revivo.png" /></code>
-    <code><img alt="GraphQL" height="50"  width="50"  src="https://profilinator.rishav.dev/skills-assets/graphql.png" /></code>
-</div>
 
 
 ![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
