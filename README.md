@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 <img src="https://noda-portfolio.web.app/git_banner.png" />
 <img align="right" width=20%
     src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif'>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 #### 🔭 I’m currently working on Game Development.
 #### 🌱 I’m currently learning Big Data.
@@ -174,6 +176,22 @@ Here are some ideas to get you started:
     </tr>
 </table>
 
+<div>
+    <code><img alt="MongoDB" height="50" width="50" src="https://img.icons8.com/color/2x/mongodb.png"/></code>
+    <a href="https://sass-lang.com" target="_blank">
+        <code><img  alt="sass" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/></code>
+    </a>
+    <a href="https://tailwindcss.com/" target="_blank">
+        <code><img alt="tailwind" width="50" height="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/></code>
+    </a>
+    <code><img alt="Nuxt" height="50" width="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-color-tal-revivo.png" /></code>
+    <code><img alt="Git" height="50"  width="50" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" /></code>
+    <code><img alt="GraphQL" height="50"  width="50"  src="https://profilinator.rishav.dev/skills-assets/graphql.png" /></code>
+    <code><img alt="WooCommerce" height="50" width="50"  src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" /></code>
+    <code><img alt="WordPress" height="50"  width="50"  src="https://profilinator.rishav.dev/skills-assets/wordpress.png" /></code>
+    <code><img alt="Shopify" height="50"  width="50"  src="https://github.com/yurri-yeskov/yurri-yeskov/blob/main/shopify-icon.png"/></code>
+</div>
+
 
 ![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
@@ -218,38 +236,6 @@ Here are some ideas to get you started:
     </a>
 </p>
 
-<!-- <img align="right" src="https://count.getloli.com/get/@SoftwareArchitect9817?theme=rule34" /> -->
 ![](https://count.getloli.com/get/@SoftwareArchitect9817.github.readme)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <img src="https://github.com/kamleshjoshi8102/imgbot/blob/imgbot/header_.png">
-
-
-<h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥𝐬</h2>
-<div>
-    <div align="left">
-        <a href="https://www.qt.io/" target="_blank">
-            <code><img  alt="qt" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg"/></code>
-        </a>
-        <code><img alt="Kadu-Bootstrap" height="50" width="50" src="https://img.icons8.com/color/2x/javascript.png"/></code>
-        <code><img alt="MongoDB" height="50" width="50" src="https://img.icons8.com/color/2x/mongodb.png"/></code>
-        <a href="https://sass-lang.com" target="_blank">
-            <code><img  alt="sass" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/></code>
-        </a>
-        <a href="https://tailwindcss.com/" target="_blank">
-            <code><img alt="tailwind" width="50" height="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/></code>
-        </a>
-        <code><img alt="React" height="50"  width="50" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" /></code>
-        <code><img alt="Vue" height="50" width="50" src="https://img.icons8.com/color/2x/vue-js.png" /></code>
-        <code><img alt="Nuxt" height="50" width="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-color-tal-revivo.png" /></code>
-        <code><img alt="Kadu-Angular" height="50" width="50" src="https://img.icons8.com/color/2x/angularjs.png" /></code>
-        <code><img alt="Kadu-NodeJS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
-        <code><img alt="Git" height="50"  width="50" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" /></code>
-        <code><img alt="GraphQL" height="50"  width="50"  src="https://profilinator.rishav.dev/skills-assets/graphql.png" /></code>
-        <code><img alt="WooCommerce" height="50" width="50"  src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" /></code>
-        <code><img alt="WordPress" height="50"  width="50"  src="https://profilinator.rishav.dev/skills-assets/wordpress.png" /></code>
-        <code><img alt="Shopify" height="50"  width="50"  src="https://github.com/yurri-yeskov/yurri-yeskov/blob/main/shopify-icon.png"/></code>
-
-    </div>
-</div>
