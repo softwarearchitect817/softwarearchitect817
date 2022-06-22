@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://noda-portfolio.web.app/git_banner.png" />
+<img src="media/stacks_hr.gif"  />
 
 #### 🔭 I’m currently working on Game Development.
 #### 🌱 I’m currently learning Big Data.
