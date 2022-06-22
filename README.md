@@ -30,8 +30,7 @@ Here are some ideas to get you started:
 <h3 align="left">Computer skills</h3>
 <table>
     <tr>
-        <td><code><img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="100"></code>
-        </td>
+        <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="100"></td>
         <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" width="100"></td>
         <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pancake.png?raw=true" width="100"></td>
         <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_bitcoin.png?raw=true" width="100"></td>
@@ -112,8 +111,7 @@ Here are some ideas to get you started:
     </tr>
     <tr>
         <td><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-                    alt="mongodb" width="100" /> </a></td>
+                    src="https://img.icons8.com/color/2x/mongodb.png" alt="mongodb" width="100" /> </a></td>
         <td><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
                     alt="express" width="100" /> </a></td>
@@ -149,7 +147,7 @@ Here are some ideas to get you started:
         <td><a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
                     alt="laravel" width="100" /> </a></td>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-64/wordpress-2752021-2284838.png" width="100"></td>
+        <td><img src="https://profilinator.rishav.dev/skills-assets/wordpress.png" width="100"></td>
         <td><img src="https://cdn.iconscout.com/icon/free/png-128/codeigniter-5-1175246.png" width="100"></td>
         <td><a href="https://www.php.net" target="_blank" rel="noreferrer"> <img
                     src="https://cdn.iconscout.com/icon/free/png-128/php-99-1175127.png" alt="php" width="100" /> </a>
@@ -174,15 +172,15 @@ Here are some ideas to get you started:
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
                     alt="java" width="100" /> </a></td>
     </tr>
+    <tr>
+        <td><img src="https://github.com/yurri-yeskov/yurri-yeskov/blob/main/shopify-icon.png" width="100" /></td>
+        <td><img src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" width="100" /></td>
+    </tr>
 </table>
 
 <div>
-    <code><img alt="MongoDB" height="50" width="50" src="https://img.icons8.com/color/2x/mongodb.png"/></code>
     <code><img alt="Nuxt" height="50" width="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-color-tal-revivo.png" /></code>
     <code><img alt="GraphQL" height="50"  width="50"  src="https://profilinator.rishav.dev/skills-assets/graphql.png" /></code>
-    <code><img alt="WooCommerce" height="50" width="50"  src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" /></code>
-    <code><img alt="WordPress" height="50"  width="50"  src="https://profilinator.rishav.dev/skills-assets/wordpress.png" /></code>
-    <code><img alt="Shopify" height="50"  width="50"  src="https://github.com/yurri-yeskov/yurri-yeskov/blob/main/shopify-icon.png"/></code>
 </div>
 
 
