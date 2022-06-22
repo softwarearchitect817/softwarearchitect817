@@ -69,6 +69,9 @@ Here are some ideas to get you started:
         <td><a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img
                     src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg"
                     alt="unreal" width="100" /> </a></td>
+        <td><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+                    alt="java" width="100" /> </a></td>
     </tr>
     <tr>
         <td><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
@@ -109,6 +112,7 @@ Here are some ideas to get you started:
         <td><a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img
                     src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="100" />
             </a></td>
+        <td><img src="https://img.icons8.com/color/2x/postgreesql.png" width="100" /> </td>
     </tr>
     <tr>
         <td><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
@@ -173,9 +177,7 @@ Here are some ideas to get you started:
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
                     alt="css3" width="100" /> </a></td>
         <td><img src="https://cdn.iconscout.com/icon/free/png-128/html5-40-1175193.png" width="100"></td>
-        <td><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-                    alt="java" width="100" /> </a></td>
+
     </tr>
 </table>
 
