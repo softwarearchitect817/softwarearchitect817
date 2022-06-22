@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://noda-portfolio.web.app/git_banner.png" />
-<img align="right" width=40% src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif'>
+<img align="right" width=10% src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif'>
 
 #### 🔭 I’m currently working on Game Development.
 #### 🌱 I’m currently learning Big Data.
