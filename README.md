@@ -178,14 +178,7 @@ Here are some ideas to get you started:
 
 <div>
     <code><img alt="MongoDB" height="50" width="50" src="https://img.icons8.com/color/2x/mongodb.png"/></code>
-    <a href="https://sass-lang.com" target="_blank">
-        <code><img  alt="sass" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/></code>
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank">
-        <code><img alt="tailwind" width="50" height="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/></code>
-    </a>
     <code><img alt="Nuxt" height="50" width="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-color-tal-revivo.png" /></code>
-    <code><img alt="Git" height="50"  width="50" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" /></code>
     <code><img alt="GraphQL" height="50"  width="50"  src="https://profilinator.rishav.dev/skills-assets/graphql.png" /></code>
     <code><img alt="WooCommerce" height="50" width="50"  src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" /></code>
     <code><img alt="WordPress" height="50"  width="50"  src="https://profilinator.rishav.dev/skills-assets/wordpress.png" /></code>
