@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img align="right" width=39% src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoftwareArchitect9817&layout=compact&langs_count=10&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-<img width=60% src="https://github-profile-trophy.vercel.app/?username=SoftwareArchitect9817&column=5&margin-h=15">
+<img align="right" width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoftwareArchitect9817&layout=compact&langs_count=10&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+<img width=55% src="https://github-profile-trophy.vercel.app/?username=SoftwareArchitect9817&column=5&margin-h=15">
 
 <h3 align="left">Computer skills</h3>
 <table>
