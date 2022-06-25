@@ -218,13 +218,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=3bac3a)
 
-<p align="center">
-    <a>
-        <img height="150" width="150" src="https://github.com/a3X3k/-Random-/blob/main/left.webp">
-        
-        <img height="150" width="150" src="https://github.com/a3X3k/-Random-/blob/main/right.webp">
-    </a>
-</p>
 
 ![](https://count.getloli.com/get/@SoftwareArchitect9817.github.readme)
 
