@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 ## 📫 How to reach me: derekjones9817@gmail.com
 
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://github-profile-trophy.vercel.app/?username=SoftwareArchitect9817&column=5&margin-w=30&margin-h=15">
 
 <h3 align="left">Computer skills</h3>
