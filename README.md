@@ -223,4 +223,4 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/kamleshjoshi8102/imgbot/blob/imgbot/header_.png">
 
-<img src="web5.png" />
+<!-- <img src="web5.png" /> -->
