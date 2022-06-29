@@ -13,16 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 🔭 I’m currently working on Game Development.
+### 🌱 I’m currently learning Big Data, Artificial intelligence, IoT and Edge Computing.
+### 💬 Ask me about Web Development.
+### 📫 How to reach me: derekjones9817@gmail.com
+
+
 <img align="right" width=20%
     src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif'>
 <img src="stacks_hr.gif" />
-
-
-## 🔭 I’m currently working on Game Development.
-## 🌱 I’m currently learning Big Data, Artificial intelligence, IoT and Edge Computing.
-## 💬 Ask me about Web Development.
-## 📫 How to reach me: derekjones9817@gmail.com
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoftwareArchitect9817&layout=compact&langs_count=10&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
