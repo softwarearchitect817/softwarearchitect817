@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- <img src="https://noda-portfolio.web.app/git_banner.png" /> -->
 <img align="right" width=20%
     src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif'>
 <img src="stacks_hr.gif" />
@@ -31,25 +30,6 @@ Here are some ideas to get you started:
 
 <h3 align="left">Computer skills</h3>
 <table>
-    <tr>
-        <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="100"></td>
-        <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" width="100"></td>
-        <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pancake.png?raw=true" width="100"></td>
-        <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_bitcoin.png?raw=true" width="100"></td>
-        <td><a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust"
-                    width="100" /> </a></td>
-        <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_solidity.png?raw=true" width="100"></td>
-        <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_metamask.png?raw=true" width="100"></td>
-        <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_truffle.png?raw=true" width="100"></td>
-        <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pivx.png?raw=true" width="100"></td>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-64/go-76-1175027.png" width="100"></td>
-        <td><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-                    alt="python" width="100" /> </a></td>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-64/django-11-1175036.png" width="100"></td>
-        <td><img src="https://profilinator.rishav.dev/skills-assets/graphql.png" width="100"></td>
-    </tr>
     <tr>
         <td><img src="https://cdn.iconscout.com/icon/free/png-64/github-170-1175028.png" width="100"></td>
         <td><img src="https://cdn.iconscout.com/icon/free/png-128/git-18-1175219.png" width="100"></td>
@@ -180,46 +160,28 @@ Here are some ideas to get you started:
                     alt="css3" width="100" /> </a></td>
         <td><img src="https://cdn.iconscout.com/icon/free/png-128/html5-40-1175193.png" width="100"></td>
     </tr>
+    <tr>
+        <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="100"></td>
+        <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" width="100"></td>
+        <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pancake.png?raw=true" width="100"></td>
+        <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_bitcoin.png?raw=true" width="100"></td>
+        <td><a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust"
+                    width="100" /> </a></td>
+        <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_solidity.png?raw=true" width="100"></td>
+        <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_metamask.png?raw=true" width="100"></td>
+        <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_truffle.png?raw=true" width="100"></td>
+        <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pivx.png?raw=true" width="100"></td>
+        <td><img src="https://cdn.iconscout.com/icon/free/png-64/go-76-1175027.png" width="100"></td>
+        <td><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+                    alt="python" width="100" /> </a></td>
+        <td><img src="https://cdn.iconscout.com/icon/free/png-64/django-11-1175036.png" width="100"></td>
+        <td><img src="https://profilinator.rishav.dev/skills-assets/graphql.png" width="100"></td>
+    </tr>
 </table>
-
-
-![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-ERC1155-informational?style=flat&logo=erc1155&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-ERC721-informational?style=flat&logo=erc721&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-ERC20-informational?style=flat&logo=erc20&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-React_Native-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Ruby_On_Rails-informational?style=flat&logo=ruby&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Electron-informational?style=flat&logo=electron&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Quasar-informational?style=flat&logo=quasar&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Native_Script-informational?style=flat&logo=nativescript&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-PHP-informational?style=flat&logo=php&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-Go-informational?style=flat&logo=go&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/CI/CD-Github_Action-informational?style=flat&logo=github&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/CI/CD-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/CI/CD-Circle_CI-informational?style=flat&logo=circleci&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Database-Sqlite-informational?style=flat&logo=sqlite&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=3bac3a)
 
 
 ![](https://count.getloli.com/get/@SoftwareArchitect9817.github.readme)
 
 <img src="https://github.com/kamleshjoshi8102/imgbot/blob/imgbot/header_.png">
-
-<!-- <img src="web5.png" /> -->
