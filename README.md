@@ -187,3 +187,5 @@ Here are some ideas to get you started:
 ![](https://count.getloli.com/get/@SoftwareArchitect9817.github.readme)
 
 <img src="https://github.com/kamleshjoshi8102/imgbot/blob/imgbot/header_.png">
+
+<a href="https://app.daily.dev/WebArchitect"><img src="https://api.daily.dev/devcards/7da06c72c7914babb4481aca11bf1e25.png?r=de2" width="400" alt="Derek Jones's Dev Card"/></a>
