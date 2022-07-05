@@ -353,3 +353,6 @@ Skills: React / Node.js / AngularJS / Vue.js / Next.js / Unity3D / C#
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/d3.png" alt="D3.js" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="25" />  
 </div>  
+
+
+<img src="https://skillicons.dev/icons?i=all">
