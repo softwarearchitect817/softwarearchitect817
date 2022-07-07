@@ -214,30 +214,7 @@ Skills: React / Node.js / AngularJS / Vue.js / Next.js / Unity3D / C#
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SoftwareArchitect9817)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoftwareArchitect9817)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SoftwareArchitect9817&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SoftwareArchitect9817)  
-
-![GitHub metrics](https://metrics.lecoq.io/SoftwareArchitect9817)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SoftwareArchitect9817)  
-
-![Profile views](https://gpvc.arturio.dev/SoftwareArchitect9817)  
-
-
-
-<h1 align="center">Hi 👋, I'm Derek</h1>
-<h3 align="center">Web Architect from Slovenia</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=softwarearchitect9817&label=Profile%20views&color=0e75b6&style=flat" alt="softwarearchitect9817" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=softwarearchitect9817" alt="softwarearchitect9817" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Game Development**
 
