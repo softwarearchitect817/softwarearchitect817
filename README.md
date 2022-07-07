@@ -195,9 +195,7 @@ Here are some ideas to get you started:
 
 
 
-### Hi there 👋, This is Derek
-#### I am Web Architect
-![I am Web Architect](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 I'm proficient in React, Node, JavaScript, Typescript, Solidity, Rust, C, C++, C# and UML. Among these programming languages, I feel most comfortable working with React, Node and Rust and I love to use them. In my previous job, I worked primarily with React and Node to develop websites and some of them worked with multiple smart contracts. I also worked with React Native to create a mobile app that's compatible with the websites I developed. Using Typescript, I was able to boost my productivity when creating websites and mobile applications.
 In addition, I worked with Unity3D and C# to develop 3D games and AR.
