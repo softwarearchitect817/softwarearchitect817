@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 [![Typing
-SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=100&color=DC0000&background=FFFFFF00&width=1000&height=150&lines=I'm+a+Software+Architect;I'm+a+Web+Architect;I'm+a+Game+Architect;I'm+a+Blockchain+Architect)](https://git.io/typing-svg)
+SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=100&color=DC0000&background=FFFFFF00&width=1000&height=200&lines=I'm+a+Software+Architect;I'm+a+Web+Architect;I'm+a+Game+Architect;I'm+a+Blockchain+Architect)](https://git.io/typing-svg)
 
 
 <img align="right" width=30%
