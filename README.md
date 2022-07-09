@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=100&color=DC0000&background=FFFFFF00&width=1000&height=200&lines=I'm+a+Software+Architect;I'm+a+Web+Architect;I'm+a+Game+Architect;I'm+a+Blockchain+Architect)](https://git.io/typing-svg)
 
 
+<img align="right" width=20%
+    src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif'>
+
+
 - 🔭 I’m currently working on **Game Development**
 
 - 🌱 I’m currently learning **Big Data and Artificial Intelligence**
@@ -31,6 +35,9 @@ SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=100&color=DC0000&b
 - 📫 How to reach me **derekjones9817@gmail.com**
 
 - 📄 Know about my experiences [https://cvdesignr.com/p/627f7541480a7](https://cvdesignr.com/p/627f7541480a7)
+
+
+<img align="right" src="stacks_hr.gif" />
 
 
 <h3 align="left">Connect with me:</h3>
@@ -64,12 +71,6 @@ SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=100&color=DC0000&b
         src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif'
         width='35' height='35'></a> 
 
-
-<img align="right" width=20%
-    src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif'>
-
-
-<img src="stacks_hr.gif" />
 
 <img align="right"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoftwareArchitect9817&layout=compact&langs_count=10&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
