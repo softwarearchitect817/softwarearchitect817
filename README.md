@@ -34,7 +34,7 @@ SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=100&color=DC0000&b
 
 - 📫 How to reach me **derekjones9817@gmail.com**
 
-- 📄 Know about my experiences [https://cvdesignr.com/p/627f7541480a7](https://cvdesignr.com/p/627f7541480a7)
+- 📄 Know about my experiences [https://cvdesignr.com/p/62c90ca458f6d](https://cvdesignr.com/p/62c90ca458f6d)
 
 
 <img align="right" src="stacks_hr.gif" />
