@@ -77,7 +77,6 @@ SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=100&color=DC0000&b
 <img src="https://github-profile-trophy.vercel.app/?username=SoftwareArchitect9817&column=4&margin-h=15">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![](https://raw.githubusercontent.com/SoftwareArchitect9817/github-stats-transparent/output/generated/languages.svg)
 
 <h3 align="left">Computer skills</h3>
 <table>
