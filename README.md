@@ -50,11 +50,9 @@ SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=100&color=DC0000&b
             alt="derekjones9817" height="30" width="40" /></a>
 </p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github'
-    height='40'>](https://github.com/SoftwareArchitect9817) [<img
-    src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/skype.svg' alt='skype'
-    height='40'>](live:.cid.43dcadafad16daea) [<img
-    src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram'
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/skype.svg' alt='skype' color="blue"
+    height='40'>](live:.cid.43dcadafad16daea)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram'
     height='40'>](@GameArchitect)
 
 
