@@ -34,12 +34,15 @@ SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=100&color=DC0000&b
 
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://stackoverflow.com/users/@19347579/derek-jones" target="blank"><img align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-        alt="@19347579/derek-jones" height="30" width="40" /></a>
-<a href="https://medium.com/derekjones9817" target="blank"><img align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
-        alt="derekjones9817" height="30" width="40" /></a>
+<p align="left">
+    <a href="https://stackoverflow.com/users/@19347579/derek-jones" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
+            alt="@19347579/derek-jones" height="30" width="40" /></a>
+    <a href="https://medium.com/derekjones9817" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
+            alt="derekjones9817" height="30" width="40" /></a>
+</p>
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github'
     height='40'>](https://github.com/SoftwareArchitect9817) [<img
     src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/skype.svg' alt='skype'
