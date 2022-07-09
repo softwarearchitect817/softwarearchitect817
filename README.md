@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 -->
 
 
+[![Typing
+SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=100&color=DC0000&background=FFFFFF00&width=1000&height=200&lines=I'm+a+Software+Architect;I'm+a+Web+Architect;I'm+a+Game+Architect;I'm+a+Blockchain+Architect)](https://git.io/typing-svg)
+
+
 - 🔭 I’m currently working on **Game Development**
 
 - 🌱 I’m currently learning **Big Data and Artificial Intelligence**
@@ -30,15 +34,12 @@ Here are some ideas to get you started:
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://stackoverflow.com/users/@19347579/derek-jones" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-            alt="@19347579/derek-jones" height="30" width="40" /></a>
-    <a href="https://medium.com/derekjones9817" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
-            alt="derekjones9817" height="30" width="40" /></a>
-</p>
-
+<a href="https://stackoverflow.com/users/@19347579/derek-jones" target="blank"><img align="center"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
+        alt="@19347579/derek-jones" height="30" width="40" /></a>
+<a href="https://medium.com/derekjones9817" target="blank"><img align="center"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
+        alt="derekjones9817" height="30" width="40" /></a>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github'
     height='40'>](https://github.com/SoftwareArchitect9817) [<img
     src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/skype.svg' alt='skype'
@@ -61,11 +62,6 @@ Here are some ideas to get you started:
         width='35' height='35'></a> 
 
 
-[![Typing
-SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=100&color=DC0000&background=FFFFFF00&width=1000&height=200&lines=I'm+a+Software+Architect;I'm+a+Web+Architect;I'm+a+Game+Architect;I'm+a+Blockchain+Architect)](https://git.io/typing-svg)
-
-![](https://raw.githubusercontent.com/SoftwareArchitect9817/github-stats-transparent/output/generated/languages.svg)
-
 <img align="right" width=20%
     src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif'>
 
@@ -76,6 +72,8 @@ SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=100&color=DC0000&b
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoftwareArchitect9817&layout=compact&langs_count=10&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 <img src="https://github-profile-trophy.vercel.app/?username=SoftwareArchitect9817&column=4&margin-h=15">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+![](https://raw.githubusercontent.com/SoftwareArchitect9817/github-stats-transparent/output/generated/languages.svg)
 
 <h3 align="left">Computer skills</h3>
 <table>
