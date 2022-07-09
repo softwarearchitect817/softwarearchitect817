@@ -15,26 +15,26 @@ Here are some ideas to get you started:
 
 
 [![Typing
-SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=100&color=DC0000&background=FFFFFF00&width=1000&height=200&lines=I'm+a+Software+Architect;I'm+a+Web+Architect;I'm+a+Game+Architect;I'm+a+Blockchain+Architect)](https://git.io/typing-svg)
+SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=100&color=DC0000&background=FFFFFF00&width=1000&height=150&lines=I'm+a+Software+Architect;I'm+a+Web+Architect;I'm+a+Game+Architect;I'm+a+Blockchain+Architect)](https://git.io/typing-svg)
 
 
 <img align="right" width=30%
     src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif'>
 
 
-- 🔭 I’m currently working on **Game Development**
+🔭 I’m currently working on **Game Development**
 
-- 🌱 I’m currently learning **Big Data and Artificial Intelligence**
+🌱 I’m currently learning **Big Data and Artificial Intelligence**
 
-- 👯 I’m looking to collaborate on **Big Data**
+👯 I’m looking to collaborate on **Big Data**
 
-- 🤝 I’m looking for help with **IoT**
+🤝 I’m looking for help with **IoT**
 
-- 💬 Ask me about **Web and Unity3D Game Development**
+💬 Ask me about **Web and Unity3D Game Development**
 
-- 📫 How to reach me **derekjones9817@gmail.com**
+📫 How to reach me **derekjones9817@gmail.com**
 
-- 📄 Know about my experiences [https://cvdesignr.com/p/62c90ca458f6d](https://cvdesignr.com/p/62c90ca458f6d)
+📄 Know about my experiences [https://cvdesignr.com/p/62c90ca458f6d](https://cvdesignr.com/p/62c90ca458f6d)
 
 
 <img align="right" src="stacks_hr.gif" />
