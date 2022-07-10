@@ -40,8 +40,6 @@ SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=100&color=DC0000&b
 <img align="right" src="stacks_hr.gif" />
 
 
-![code](https://github.com/SoftwareArchitect9817/github-stats-transparent/blob/output/generated/languages.svg)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://stackoverflow.com/users/@19347579/derek-jones" target="blank"><img align="center"
