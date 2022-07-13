@@ -5,9 +5,9 @@
 Here are some ideas to get you started:
 - 🔭 I’m currently working on Game Development.
 - 🌱 I’m currently learning Big Data.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Blockchain, Web Development.
+- 👯 I’m looking to collaborate on DEVSECOPS.
+- 🤔 I’m looking for help with IoT.
+- 💬 Ask me about Web Development.
 - 📫 How to reach me: derekjones9817@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
@@ -25,11 +25,11 @@ SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=100&color=DC0000&b
 
 🌱 I’m currently learning **Big Data and Artificial Intelligence**
 
-👯 I’m looking to collaborate on **Big Data**
+👯 I’m looking to collaborate on **DEVSECOPS**
 
 🤝 I’m looking for help with **IoT**
 
-💬 Ask me about **Web and Unity3D Game Development**
+💬 Ask me about **Web, Unity3D Game, Blockchain Development**
 
 📫 How to reach me **derekjones9817@gmail.com**
 
