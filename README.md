@@ -50,7 +50,7 @@ SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=100&color=DC0000&b
 📄 Know about my experiences [https://cvdesignr.com/p/62c90ca458f6d](https://cvdesignr.com/p/62c90ca458f6d)
 
 
-<img align="right" src="stacks_hr.gif" />
+<img width=100% src="stacks_hr.gif" />
 
 
 <a href='https://archiveprogram.github.com/'>
