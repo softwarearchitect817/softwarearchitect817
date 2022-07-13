@@ -29,7 +29,7 @@ SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=100&color=DC0000&b
 
 🤝 I’m looking for help with **IoT**
 
-💬 Ask me about **Web, Unity3D Game, Blockchain Development**
+💬 Ask me about **Web, Unity3D Game and Blockchain Development**
 
 📫 How to reach me **derekjones9817@gmail.com**
 
