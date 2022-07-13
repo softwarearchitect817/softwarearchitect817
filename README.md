@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=100&color=DC0000&background=FFFFFF00&width=1000&height=200&lines=I'm+a+Software+Architect;I'm+a+Web+Architect;I'm+a+Game+Architect;I'm+a+Blockchain+Architect)](https://git.io/typing-svg)
 
 
-<img align="right" width=30%
-    src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif'>
+<img align="right" src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif'>
 
 
 🔭 I’m currently working on **Game Development using Unity3D**
