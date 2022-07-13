@@ -50,9 +50,6 @@ SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=100&color=DC0000&b
 📄 Know about my experiences [https://cvdesignr.com/p/62c90ca458f6d](https://cvdesignr.com/p/62c90ca458f6d)
 
 
-<img width=100% src="stacks_hr.gif" />
-
-
 <a href='https://archiveprogram.github.com/'>
     <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40'
         height='40'>
@@ -73,6 +70,8 @@ SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=100&color=DC0000&b
     <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif'
         width='35' height='35'>
 </a>
+
+<img width=100% src="stacks_hr.gif" />
 
 
 <img align="right"
