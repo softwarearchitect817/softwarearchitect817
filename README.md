@@ -33,17 +33,18 @@ SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=100&color=DC0000&b
 
 📫 How to reach me **derekjones9817@gmail.com**
 
-<div align="center">
-<p align="left">
-    <a href="https://stackoverflow.com/users/@19347579/derek-jones" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-            alt="@19347579/derek-jones" height="30" width="40" /></a>
-    <a href="https://medium.com/derekjones9817" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
-            alt="derekjones9817" height="30" width="40" /></a>
-</p>
-</div>
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/skype.svg' alt='skype' color="blue"
+    height='40'>](live:.cid.43dcadafad16daea)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram'
+    height='40'>](@GameArchitect)
+<a href="https://stackoverflow.com/users/@19347579/derek-jones" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
+            alt="@19347579/derek-jones" height="30" width="40" />
+</a>
+<a href="https://medium.com/derekjones9817" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
+            alt="derekjones9817" height="30" width="40" />
+</a>
 
 
 📄 Know about my experiences [https://cvdesignr.com/p/62c90ca458f6d](https://cvdesignr.com/p/62c90ca458f6d)
@@ -51,10 +52,7 @@ SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=100&color=DC0000&b
 
 <img align="right" src="stacks_hr.gif" />
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/skype.svg' alt='skype' color="blue"
-    height='40'>](live:.cid.43dcadafad16daea)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram'
-    height='40'>](@GameArchitect)
+
 <a href='https://archiveprogram.github.com/'>
     <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40'
         height='40'>
