@@ -23,11 +23,11 @@ SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=100&color=DC0000&b
 
 🔭 I’m currently working on **Game Development using Unity3D**
 
-🌱 I’m currently learning **Big Data and Artificial Intelligence**
+🌱 I’m currently learning **Big data and Artificial intelligence**
 
-👯 I’m looking to collaborate on **DEVSECOPS**
+👯 I’m looking to collaborate on **DevSecOps**
 
-🤝 I’m looking for help with **IoT**
+🤝 I’m looking for help with **Internet of things**
 
 💬 Ask me about **Web, Unity and Blockchain Development**
 
