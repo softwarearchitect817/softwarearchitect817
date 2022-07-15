@@ -27,7 +27,7 @@ SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=100&color=DC0000&b
 
 👯 I’m looking to collaborate on **DevSecOps**
 
-🤝 I’m looking for help with **AI/ML and Edge Computing in Internet of things**
+🤝 I’m looking for help with **AI/ML and Edge Computing in Internet of things with 5G**
 
 💬 Ask me about **Web, Unity and Blockchain Development**
 
