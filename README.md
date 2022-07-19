@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 <img src="idea.jpg" />
-<img align="right" width=35% src="React.png" />
+<img align="right" width=40% src="React.png" />
 
 
 🔭 I’m currently working on **Game Development using Unity3D**
@@ -79,5 +79,6 @@ Here are some ideas to get you started:
 
 ![](https://count.getloli.com/get/@SoftwareArchitect9817.github.readme)
 
-<img src="web.png" />
+<img align="right" width=45% src="web.png" />
+<img widht=50% src="platforms.png" />
 <img src="hero-back.png" />
