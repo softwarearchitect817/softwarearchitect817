@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 </a>
 
 
-<img src="desire.png" />
+<img align="center" src="desire.png" />
 <img align="right"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoftwareArchitect9817&layout=compact&langs_count=10&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 <img src="https://github-profile-trophy.vercel.app/?username=SoftwareArchitect9817&column=4&margin-h=15">
@@ -80,5 +80,5 @@ Here are some ideas to get you started:
 ![](https://count.getloli.com/get/@SoftwareArchitect9817.github.readme)
 
 <img align="right" width=45% src="web.png" />
-<img widht=50% src="platforms.png" />
+<img width=50% src="platforms.png" />
 <img src="hero-back.png" />
