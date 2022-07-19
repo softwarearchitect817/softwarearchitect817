@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 <img src="idea.jpg" />
-<img align="right" width=50% src="React.png" />
+<img align="right" width=40% src="React.png" />
 
 
 🔭 I’m currently working on **Game Development using Unity3D**
