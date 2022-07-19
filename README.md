@@ -30,12 +30,12 @@ Here are some ideas to get you started:
 
 📫 How to reach me **derekjones9817@gmail.com**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/skype.svg' alt='skype' color="blue"
-    height='40'>](live:.cid.43dcadafad16daea)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram'
-    height='40'>](@GameArchitect)
+<a href="https://join.skype.com/invite/wk4IoNJDeAuE" target="blank">
+    <img align='center' src='https://img.icons8.com/color/344/skype.png' alt='skype'
+    height="30">
+</a>
 <a href="https://t.me/GameArchitect" target="blank">
-    <img color='blue' src='https://cdn-icons-png.flaticon.com/512/2111/2111644.png' alt='telegram'
+    <img align='center' src='https://cdn-icons-png.flaticon.com/512/2111/2111644.png' alt='telegram'
     height="30">
 </a>
 <a href="https://stackoverflow.com/users/@19347579/derek-jones" target="blank">
