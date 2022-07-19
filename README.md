@@ -35,17 +35,15 @@ Here are some ideas to get you started:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram'
     height='40'>](@GameArchitect)
 <a href="https://t.me/GameArchitect" target="blank">
-    <img color='blue' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram'
-    height='30'>
+    <img color='blue' src='https://img.icons8.com/color/344/skype--v1.png' alt='telegram'
+    height="30">
 </a>
 <a href="https://stackoverflow.com/users/@19347579/derek-jones" target="blank">
-    <img align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
         alt="@19347579/derek-jones" height="30" width="30" />
 </a>
 <a href="https://medium.com/derekjones9817" target="blank">
-    <img align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
         alt="derekjones9817" height="30" width="30" />
 </a>
 
