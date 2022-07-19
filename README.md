@@ -34,7 +34,7 @@ Here are some ideas to get you started:
     height='40'>](live:.cid.43dcadafad16daea)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram'
     height='40'>](@GameArchitect)
-<a href=" https://t.me/GameArchitect" target="blank">
+<a href="https://t.me/GameArchitect" target="blank">
     <img color='blue' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram'
     height='30'>
 </a>
