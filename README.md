@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 📫 How to reach me **derekjones9817@gmail.com**
 
 <div align="center">
-    <a href="derekjones9817@gmail.com">
+    <a href="mailto:derekjones9817@gmail.com">
         <img src='https://img.icons8.com/fluency/344/gmail-new.png' height="40">
     </a>
 <a href="https://join.skype.com/invite/wk4IoNJDeAuE">
@@ -50,6 +50,9 @@ Here are some ideas to get you started:
 </a>
     <a href="https://github.com/SoftwareArchitect9817">
         <img src='https://img.icons8.com/nolan/344/github.png' height="40">
+    </a>
+    <a href="https://discordapp.com/users/965772784653443215">
+        <img src='https://img.icons8.com/nolan/344/discord.png' height="40">
     </a>
 </div>
 
