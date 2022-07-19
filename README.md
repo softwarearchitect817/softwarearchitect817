@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 -->
 
 
+<img src="idea.jpg" />
+
+
 🔭 I’m currently working on **Game Development using Unity3D**
 
 🌱 I’m currently learning **Big data and Artificial intelligence**
