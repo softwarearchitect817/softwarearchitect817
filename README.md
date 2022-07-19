@@ -31,6 +31,9 @@ Here are some ideas to get you started:
 📫 How to reach me **derekjones9817@gmail.com**
 
 <div align="center">
+    <a href="derekjones9817@gmail.com">
+        <img src='https://img.icons8.com/fluency/344/gmail-new.png' height="40">
+    </a>
 <a href="https://join.skype.com/invite/wk4IoNJDeAuE">
     <img src='https://img.icons8.com/color/344/skype.png' height="40">
 </a>
