@@ -49,7 +49,7 @@ Here are some ideas to get you started:
         height="40" width="40" />
 </a>
     <a href="https://github.com/SoftwareArchitect9817">
-        <img src='https://img.icons8.com/bubbles/344/github.png' height="40">
+        <img src='https://img.icons8.com/nolan/344/github.png' height="40">
     </a>
 </div>
 
