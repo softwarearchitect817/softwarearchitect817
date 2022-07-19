@@ -32,20 +32,18 @@ Here are some ideas to get you started:
 
 <div align="center">
 <a href="https://join.skype.com/invite/wk4IoNJDeAuE">
-    <img align='center' src='https://img.icons8.com/color/344/skype.png' alt='skype'
-    height="50">
+    <img src='https://img.icons8.com/color/344/skype.png' height="40">
 </a>
 <a href="https://t.me/GameArchitect">
-    <img align='center' src='https://cdn-icons-png.flaticon.com/512/2111/2111644.png' alt='telegram'
-    height="50">
+    <img src='https://cdn-icons-png.flaticon.com/512/2111/2111644.png' height="40">
 </a>
 <a href="https://stackoverflow.com/users/@19347579/derek-jones">
-    <img align='center' src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-        alt="@19347579/derek-jones" height="50" width="50" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
+        height="40" width="40" />
 </a>
 <a href="https://medium.com/derekjones9817">
-    <img align='center' src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
-        alt="derekjones9817" height="50" width="50" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
+        height="40" width="40" />
 </a>
 </div>
 
