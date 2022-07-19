@@ -48,7 +48,11 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
         height="40" width="40" />
 </a>
+    <a href="https://github.com/SoftwareArchitect9817">
+        <img src='https://img.icons8.com/bubbles/344/github.png' height="40">
+    </a>
 </div>
+
 
 
 📄 Know about my experiences [https://cvdesignr.com/p/62c90ca458f6d](https://cvdesignr.com/p/62c90ca458f6d)
