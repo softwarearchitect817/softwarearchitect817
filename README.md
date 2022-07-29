@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 
 <img src="idea.jpg" />
-<img align="right" width=40% src="React.png" />
 
 
 🔭 I’m currently working on **Game Development using Unity3D**
@@ -83,9 +82,6 @@ Here are some ideas to get you started:
 </a>
 
 
-<div align="center">
-    <img src="desire.png" />
-</div>
 <img align="right"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoftwareArchitect9817&layout=compact&langs_count=10&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 <img src="https://github-profile-trophy.vercel.app/?username=SoftwareArchitect9817&column=4&margin-h=15">
