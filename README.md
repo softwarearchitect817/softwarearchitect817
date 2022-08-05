@@ -36,9 +36,6 @@ Here are some ideas to get you started:
     <a href="https://t.me/GameArchitect">
         <img src='https://cdn-icons-png.flaticon.com/512/2111/2111644.png' height="40">
     </a>
-    <a href="https://github.com/SoftwareArchitect9817">
-        <img src='https://img.icons8.com/nolan/344/github.png' height="40">
-    </a>
 </div>
 
 
