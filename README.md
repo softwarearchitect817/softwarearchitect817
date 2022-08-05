@@ -3,12 +3,12 @@
 <!--
 **SoftwareArchitect9817/SoftwareArchitect9817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-- 🔭 I’m currently working on Game.
-- 🌱 I’m currently learning Big Data.
-- 👯 I’m looking to collaborate on DEVSECOPS.
-- 🤔 I’m looking for help with IoT.
-- 💬 Ask me about Web.
-- 📫 How to reach me: derekjones9817@gmail.com
+- 🔭 I’m currently working on **Game Development using Unity3D**
+- 🌱 I’m currently learning **Big data and Artificial intelligence**
+- 👯 I’m looking to collaborate on **DevSecOps**
+- 🤔 I’m looking for help with **AI/ML and Edge Computing in Internet of things with 5G**
+- 💬 Ask me about **Web, Unity and Blockchain Development**
+- 📫 How to reach me: **derekjones9817@gmail.com**
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
@@ -35,14 +35,6 @@ Here are some ideas to get you started:
 </a>
 <a href="https://t.me/GameArchitect">
     <img src='https://cdn-icons-png.flaticon.com/512/2111/2111644.png' height="40">
-</a>
-<a href="https://stackoverflow.com/users/@19347579/derek-jones">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-        height="40" width="40" />
-</a>
-<a href="https://medium.com/derekjones9817">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
-        height="40" width="40" />
 </a>
     <a href="https://github.com/SoftwareArchitect9817">
         <img src='https://img.icons8.com/nolan/344/github.png' height="40">
