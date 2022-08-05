@@ -1,4 +1,4 @@
-# 👋 Welcome 👋 ✨ Web Architect ✨
+# 👋 Welcome 👋
 
 
 🔭 I’m currently working on **Game Development**
