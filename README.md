@@ -1,20 +1,7 @@
 # 👋 Welcome 👋 ✨ Web Architect ✨
 
-<!--
-**SoftwareArchitect9817/SoftwareArchitect9817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on **Game Development using Unity3D**
-- 🌱 I’m currently learning **Big data and Artificial intelligence**
-- 👯 I’m looking to collaborate on **DevSecOps**
-- 🤔 I’m looking for help with **AI/ML and Edge Computing in Internet of things with 5G**
-- 💬 Ask me about **Web, Unity and Blockchain Development**
-- 📫 How to reach me: **derekjones9817@gmail.com**
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-
-🔭 I’m currently working on **Game Development using Unity3D**
+🔭 I’m currently working on **Game Development**
 
 🌱 I’m currently learning **Big data and Artificial intelligence**
 
@@ -22,7 +9,7 @@ Here are some ideas to get you started:
 
 🤝 I’m looking for help with **AI/ML and Edge Computing in Internet of things with 5G**
 
-💬 Ask me about **Web, Unity and Blockchain Development**
+💬 Ask me about **Blockchain**
 
 📫 How to reach me **derekjones9817@gmail.com**
 
