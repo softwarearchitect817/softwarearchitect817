@@ -1,5 +1,8 @@
 # 👋 Welcome 👋
 
+
+📄 Know about my experiences [https://cvdesignr.com/p/62c90ca458f6d](https://cvdesignr.com/p/62c90ca458f6d)
+
 <div align="center">
   <a href="mailto:derekjones9817@gmail.com">
     <img src='https://img.icons8.com/fluency/344/gmail-new.png' height="40">
@@ -11,10 +14,6 @@
     <img src='https://cdn-icons-png.flaticon.com/512/2111/2111644.png' height="40">
   </a>
 </div>
-
-
-
-📄 Know about my experiences [https://cvdesignr.com/p/62c90ca458f6d](https://cvdesignr.com/p/62c90ca458f6d)
 
 
 <a href='https://archiveprogram.github.com/'>
