@@ -1,7 +1,7 @@
 # 👋 Welcome 👋
 
 
-      <!-- 🔭 I’m currently working on **Game Development**
+      🔭 I’m currently working on **Game Development**
 
       🌱 I’m currently learning **Big data and Artificial intelligence**
 
@@ -11,7 +11,7 @@
 
       💬 Ask me about **Blockchain**
 
-      📫 How to reach me **derekjones9817@gmail.com** -->
+      📫 How to reach me **derekjones9817@gmail.com**
 
       <div align="center">
         <a href="mailto:derekjones9817@gmail.com">
