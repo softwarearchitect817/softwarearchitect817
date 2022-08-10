@@ -42,4 +42,4 @@
 
 <img align="right"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoftwareArchitect9817&langs_count=10&layout=compact&bg_color=start,330867,30cfd0&text_color=ffffff&title_color=ffffff" />
-<img src="https://github-profile-trophy.vercel.app/?username=SoftwareArchitect9817&margin-h=15">
+<img src="https://github-profile-trophy.vercel.app/?username=SoftwareArchitect9817&column=8&margin-h=15">
