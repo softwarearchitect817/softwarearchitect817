@@ -7,7 +7,6 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoftwareArchitect9817&langs_count=10&layout=compact&bg_color=start,330867,30cfd0&text_color=ffffff&title_color=ffffff" />
 
 <img src="https://user-images.githubusercontent.com/61900280/182406265-8b971aa1-38d5-4aeb-9007-b821495e7065.png" />
-![aws-certified-solutions-architect-associate](https://user-images.githubusercontent.com/61900280/182406265-8b971aa1-38d5-4aeb-9007-b821495e7065.png)
 
 <a href='https://archiveprogram.github.com/'>
     <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40'
@@ -44,3 +43,5 @@
         <img src='https://cdn-icons-png.flaticon.com/512/2111/2111644.png' height="40">
     </a>
 </div>
+
+![aws-certified-solutions-architect-associate](https://user-images.githubusercontent.com/61900280/182406265-8b971aa1-38d5-4aeb-9007-b821495e7065.png)
