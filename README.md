@@ -3,7 +3,7 @@
 
 📄 Know about my experiences [https://cvdesignr.com/p/62c90ca458f6d](https://cvdesignr.com/p/62c90ca458f6d)
 
-<img align="right"
+<img align="right" width=70%
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoftwareArchitect9817&langs_count=10&layout=compact&bg_color=start,330867,30cfd0&text_color=ffffff&title_color=ffffff" />
 
 <img src="https://user-images.githubusercontent.com/61900280/182406265-8b971aa1-38d5-4aeb-9007-b821495e7065.png" />
@@ -44,4 +44,4 @@
     </a>
 </div>
 
-![aws-certified-solutions-architect-associate](https://user-images.githubusercontent.com/61900280/182406265-8b971aa1-38d5-4aeb-9007-b821495e7065.png)
+<!-- ![aws-certified-solutions-architect-associate](https://user-images.githubusercontent.com/61900280/182406265-8b971aa1-38d5-4aeb-9007-b821495e7065.png) -->
