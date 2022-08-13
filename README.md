@@ -48,11 +48,3 @@
 
 <img src="GitHub/DevOps.gif">
 <img src="GitHub/github-profile.jpg">
-
-
-
-<img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devenes&layout=compact&theme=radical&langs_count=10" />
-
-<img width=1000
-    src="https://github-profile-trophy.vercel.app/?username=devenes&row=1&column=7&theme=onedark&no-frame=true" />
