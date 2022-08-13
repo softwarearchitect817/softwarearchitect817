@@ -4,7 +4,7 @@
 📄 Know about my experiences [https://cvdesignr.com/p/62c90ca458f6d](https://cvdesignr.com/p/62c90ca458f6d)
 
 <img align="right"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=softwarearchitect817&langs_count=10&layout=compact&theme=merko" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=softwarearchitect817&langs_count=10&layout=compact&theme=rose_pine" />
 
 
 <a href='https://archiveprogram.github.com/'>
