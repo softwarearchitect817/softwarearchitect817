@@ -47,11 +47,6 @@
 <!-- ![aws-certified-solutions-architect-associate](https://user-images.githubusercontent.com/61900280/182406265-8b971aa1-38d5-4aeb-9007-b821495e7065.png) -->
 
 
-![enes](gitartwork.svg)
-
-![snake svg](https://github.com/devenes/devenes/blob/output/github-contribution-grid-snake.svg)
-
-
 
 <!--Statistics-->
 <div align="center">
@@ -62,42 +57,11 @@
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=devenes&layout=compact&theme=radical&langs_count=10" />
         </a>
     </div>
-    <br>
-    <div>
-        <a href="https://www.enes.software/">
-            <img align="center"
-                src="https://github-readme-stats.vercel.app/api?username=devenes&show_icons=true&theme=radical" />
-        </a>
-    </div>
-    <br>
-    <a href="https://www.enes.software/">
-        <img align="center"
-            src="https://github-readme-streak-stats.herokuapp.com?user=devenes&theme=radical&date_format=j%20M%5B%20Y%5D" />
-    </a>
 </div>
-<br>
-<div align="center">
-    <a href="https://www.enes.software/">
-        <img src="https://activity-graph.herokuapp.com/graph?username=devenes&theme=react-dark" />
-    </a>
-</div>
+
 
 <div align="center">
     <a href="https://www.enes.software/">
-        <img src="https://raw.githubusercontent.com/devenes/devenes/main/icon/footer.webp" />
-    </a>
-</div>
-
-<div align="center">
-    <a href="https://www.enes.software/">
-        <img
-            src="https://raw.githubusercontent.com/devenes/devenes/main/profile-3d-contrib/profile-night-rainbow.svg" />
-    </a>
-</div>
-
-<div align="center">
-    <a href="https://www.enes.software/">
-        <h2>🏆 Github Profile Trophy 🏆</h2>
         <img width=1000
             src="https://github-profile-trophy.vercel.app/?username=devenes&row=1&column=7&theme=onedark&no-frame=true" />
     </a>
