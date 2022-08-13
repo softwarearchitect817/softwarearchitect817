@@ -55,24 +55,6 @@
 
 <!--Statistics-->
 <div align="center">
-    <div align="center">
-        <a href="https://www.enes.software/">
-            <img align="center" src="https://komarev.com/ghpvc/?username=devenes&color=blue&style=plastic">
-        </a>
-        <a href="https://www.linkedin.com/in/devenes/">
-            <img align="center"
-                src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8">
-        </a>
-        <a href="https://www.instagram.com/enes.ai/">
-            <img align="center"
-                src="https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=f75c7e">
-        </a>
-        <a href="https://github.com/devenes/">
-            <img align="center" src="https://img.shields.io/github/followers/devenes?label=follow&style=social">
-        </a>
-    </div>
-
-    <br>
     <!-- Most Used Languages -->
     <div>
         <a href="https://www.enes.software/">
