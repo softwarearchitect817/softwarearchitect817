@@ -30,7 +30,7 @@
 <img src="https://user-images.githubusercontent.com/61900280/182406265-8b971aa1-38d5-4aeb-9007-b821495e7065.png" />
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=softwarearchitect817&space=10&margin-h=15">
+<img src="https://github-profile-trophy.vercel.app/?username=softwarearchitect817&margin-h=15">
 
 
 <div align="center">
