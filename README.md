@@ -47,7 +47,7 @@
 </div>
 
 <img src="GitHub/DevOps.gif">
-<img src="GitHub/github-profile.gif">
+<img src="GitHub/github-profile.jpg">
 
 
 
