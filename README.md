@@ -3,8 +3,7 @@
 
 📄 Know about my experiences [https://cvdesignr.com/p/62c90ca458f6d](https://cvdesignr.com/p/62c90ca458f6d)
 
-<img align="right" width=50%
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=softwarearchitect817&langs_count=10&layout=compact" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=softwarearchitect817&langs_count=10&layout=compact" />
 
 
 <a href='https://archiveprogram.github.com/'>
