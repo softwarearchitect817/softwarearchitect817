@@ -30,8 +30,8 @@
 <img src="https://user-images.githubusercontent.com/61900280/182406265-8b971aa1-38d5-4aeb-9007-b821495e7065.png" />
 
 
-<img
-    src="https://github-profile-trophy.vercel.app/?username=softwarearchitect817&margin-w=15&margin-h=15&theme=onedark">
+<img width="100%"
+    src="https://github-profile-trophy.vercel.app/?username=softwarearchitect817&margin-w=15&margin-h=15&theme=radical">
 
 
 <div align="center">
