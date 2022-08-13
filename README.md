@@ -4,7 +4,7 @@
 📄 Know about my experiences [https://cvdesignr.com/p/62c90ca458f6d](https://cvdesignr.com/p/62c90ca458f6d)
 
 <img align="right" width=50%
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoftwareArchitect9817&langs_count=10&layout=compact" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=softwarearchitect817&langs_count=10&layout=compact" />
 
 
 <a href='https://archiveprogram.github.com/'>
@@ -30,7 +30,7 @@
 <img src="https://user-images.githubusercontent.com/61900280/182406265-8b971aa1-38d5-4aeb-9007-b821495e7065.png" />
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=SoftwareArchitect9817&margin-h=15">
+<img src="https://github-profile-trophy.vercel.app/?username=softwarearchitect817&margin-h=15">
 
 
 <div align="center">
@@ -46,11 +46,3 @@
 </div>
 
 <!-- ![aws-certified-solutions-architect-associate](https://user-images.githubusercontent.com/61900280/182406265-8b971aa1-38d5-4aeb-9007-b821495e7065.png) -->
-
-<div align="center">
-  <a href="https://www.enes.software/">
-    <h2>🏆 Github Profile Trophy 🏆</h2>    
-        <img width=1000
-      src="https://github-profile-trophy.vercel.app/?username=devenes&row=1&column=7&theme=onedark&no-frame=true" />    
-  </a>
-</div>
