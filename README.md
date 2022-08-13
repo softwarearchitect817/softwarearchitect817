@@ -48,27 +48,10 @@
 
 
 
-<!--Statistics-->
-<div align="center">
-    <!-- Most Used Languages -->
-    <div>
-        <a href="https://www.enes.software/">
-            <img align="center"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=devenes&layout=compact&theme=radical&langs_count=10" />
-        </a>
-    </div>
-</div>
+<img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devenes&layout=compact&theme=radical&langs_count=10" />
 
+<img width=1000
+    src="https://github-profile-trophy.vercel.app/?username=devenes&row=1&column=7&theme=onedark&no-frame=true" />
 
-<div align="center">
-    <a href="https://www.enes.software/">
-        <img width=1000
-            src="https://github-profile-trophy.vercel.app/?username=devenes&row=1&column=7&theme=onedark&no-frame=true" />
-    </a>
-</div>
-
-<div align="center">
-    <a href="https://www.enes.software/">
-        <img src="./icon/devops.gif">
-    </a>
-</div>
+<img src="GitHub/DevOps.gif">
