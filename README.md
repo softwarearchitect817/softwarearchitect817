@@ -31,7 +31,7 @@
 
 
 <img width=100%
-    src="https://github-profile-trophy.vercel.app/?username=softwarearchitect817&column=8&margin-h=15&theme=radical">
+    src="https://github-profile-trophy.vercel.app/?username=softwarearchitect817&column=8&margin-h=15&theme=juicyfresh">
 
 
 <div align="center">
