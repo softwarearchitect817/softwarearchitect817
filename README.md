@@ -66,3 +66,9 @@
             src="https://github-profile-trophy.vercel.app/?username=devenes&row=1&column=7&theme=onedark&no-frame=true" />
     </a>
 </div>
+
+<div align="center">
+    <a href="https://www.enes.software/">
+        <img src="./icon/devops.gif">
+    </a>
+</div>
