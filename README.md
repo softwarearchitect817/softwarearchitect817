@@ -1,8 +1,6 @@
 # 👋 Welcome 👋
 
 
-📄 Know about my experiences [https://cvdesignr.com/p/62c90ca458f6d](https://cvdesignr.com/p/62c90ca458f6d)
-
 <img align="right"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=softwarearchitect817&langs_count=10&layout=compact&theme=rose_pine" />
 
@@ -47,4 +45,3 @@
 </div>
 
 <img src="GitHub/DevOps.gif">
-<img src="GitHub/github-profile.jpg">
